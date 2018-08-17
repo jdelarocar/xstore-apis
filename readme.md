@@ -5,7 +5,7 @@ XStore's backend, an exammple of a virtual store, that uses many modules for it,
 -- Uses Express to manage the http requests and responses
 -- Mongoose for connecting to the MongoDB
 -- Joi for Validating
--- jswonwebtoken for Auth
+-- jsonwebtoken for Auth
 
 Above are the main modules.
 
